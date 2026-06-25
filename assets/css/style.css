@@ -5,3 +5,14 @@
 .visible {
 	visibility: visible;
 }
+
+.imgError {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: darkgrey;
+	color: black;
+	font-weight: bold;
+	height: 500px;
+}
